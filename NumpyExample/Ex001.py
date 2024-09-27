@@ -58,3 +58,5 @@ print(np_array5)
 
 np_array6 = np.linspace(0, 10, 1000)
 print(np_array6)
+
+#==========================================
